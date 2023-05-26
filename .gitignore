@@ -1,0 +1,4 @@
+# Data to save storage
+data/*/*
+*.nc
+.DS_Store
